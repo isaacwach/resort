@@ -1,0 +1,9 @@
+.nav-bar {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    /* border-bottom-style: inherit;
+    height: 36px;
+    float: right;
+    list-style: none; */
+}
